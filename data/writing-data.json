@@ -1,0 +1,257 @@
+{
+  "entries": [
+    {
+      "slug": "remote-site-monitoring-proposal",
+      "title": "Remote Site Monitoring Proposal",
+      "description": "A service proposal connecting client requirements to delivery, verification, and a pilot decision.",
+      "categories": [
+        "Proposal Writing"
+      ],
+      "types": [
+        "Proposal"
+      ],
+      "audience": "A property manager evaluating a monitoring pilot",
+      "context": "Illustrative client scenario.",
+      "body": "## Illustrative Client Brief\n\nA property manager seeks a 30-day pilot across three commercial properties, covering selected exterior areas from 7 p.m. to 7 a.m. Central Time daily. The request calls for video event review, an approved escalation process, a record of reviewed events, and a final report to support an expansion decision.\n\n## Executive Summary\n\nWe propose one coordinated monitoring service for all three properties, with a shared event log and a named service coordinator. Operators would review video alerts during the coverage window, assess them against approved event categories, and notify the designated contacts when action is required.\n\nThis approach gives your managers a consistent record of what occurred, who was contacted, and which issues remain open. A 30-day pilot would let you evaluate service delivery and reporting usefulness before committing to broader coverage.\n\n## Requirements and Response\n\n| Client requirement | Proposed delivery | Verification |\n| --- | --- | --- |\n| R1  After-hours coverage | Review alerts from approved cameras at all three sites during the stated hours. | Activation test at each site and a record of coverage interruptions. |\n| R2  Defined escalation | Use approved event categories and a primary and backup contact for each site. | Test notifications and retain the approved contact plan. |\n| R3  Traceable events | Record each reviewed alert, disposition, notification, and follow-up owner. | Reconcile reviewed alert IDs with event-log entries. |\n| R4  Expansion decision | Deliver a consolidated pilot report within three business days of completion. | Client review of results against the four requirements. |\n\n## Service Scope\n\nThe pilot covers event-triggered video review, client notifications, event records, and reporting. The client retains responsibility for on-site response. Operators would follow a written escalation plan identifying who to contact, when to use a backup, and how to document the outcome. Camera additions, equipment replacement, and on-site services would require a separate scope.\n\n## Implementation and Responsibilities\n\n1. **Confirm site readiness.** The service coordinator and client property manager identify camera views, coverage gaps, connectivity needs, authorized access, and privacy requirements. The client provides site information and confirms primary and backup contacts.\n\n2. **Approve and test the plan.** Operations prepares the coverage and escalation plans. The client approves both. Technical staff test alert delivery, video access, and notifications at every site. Activation follows successful testing and approval of the commercial terms.\n\n3. **Operate the pilot.** Operators review alerts and document dispositions during the coverage window. The coordinator reports service interruptions and unresolved handoffs to the property manager and holds a weekly review of open issues.\n\n4. **Evaluate the results.** Within three business days after the 30-day pilot, the coordinator delivers the final report and meets with the client to recommend expansion, adjustment, or further evaluation.\n\n## Reporting and Pilot Evaluation\n\nThe final report would show reviewed alerts by site, category, and time period, with timestamps for review and notification. It would identify recurring activity, contact failures, coverage interruptions, and follow-up items, giving managers a basis for adjusting contacts or coverage.\n\nEvaluation would check delivery against R1 through R4, including event-log completeness and successful test notifications. Any gaps in the evidence would be identified. The property manager would also assess whether the report provides enough context to assign follow-up and decide where additional coverage is justified.\n\n## Commercial Basis\n\nThe commercial schedule would price the three-site pilot against the specified hours, approved camera count, and reporting scope. It would separate recurring monitoring fees from any setup or equipment charges.\n\nSales and operations would confirm that the scope can be delivered. Finance would validate pricing, and legal would review contractual terms before submission of a binding offer. The client would approve any additional equipment, scope changes, and associated charges in writing.\n\n## Requested Client Decision\n\nConfirm the three pilot properties and nominate a property manager for a site-readiness meeting. That meeting would resolve equipment and access dependencies, allowing us to present a priced service schedule and proposed activation date for approval.",
+      "order": 0,
+      "preview": "One coordinated monitoring service across three properties, with a shared event log and a named service coordinator.",
+      "featured": true,
+      "download": "/samples/proposal-writing-sample.docx",
+      "format": "Proposal"
+    },
+    {
+      "slug": "import-a-dashboard",
+      "title": "Import and Customize a Shared Dashboard",
+      "description": "A task guide that takes a new user from choosing a template to saving a personal dashboard.",
+      "categories": [
+        "Technical Writing"
+      ],
+      "types": [
+        "Guide"
+      ],
+      "audience": "New users of a business application",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "A shared dashboard gives you a starting set of information panels. Import a template, adjust the contents, and save your own copy.\n\n## Before you begin\n\nSign in to the demonstration application and open the dashboard area. You need access to at least one shared template.\n\n## Import a template\n\n1. Open **Dashboard settings**, then select **Template library**.\n2. Choose a template that matches your task. Review its description before importing.\n3. Select **Use template**. The application opens a preview.\n4. Review the panels. Remove anything you do not need and rearrange the remaining panels in the order you use them.\n5. Enter a name that will help you recognize the dashboard later.\n6. Select **Save**.\n\nYour dashboard now appears in your personal dashboard list.\n\n## Check the result\n\nOpen the saved dashboard from your list and confirm that it contains the panels you selected.\n\nIf the template library is empty, ask the application administrator whether a template is available to your team.",
+      "order": 1,
+      "preview": "A shared dashboard gives you a starting set of information panels. Import a template, adjust the contents, and save your own copy.",
+      "featured": true,
+      "format": "Task Guide"
+    },
+    {
+      "slug": "choose-a-dashboard-layout",
+      "title": "Choose a Dashboard Layout for Your Task",
+      "description": "A conceptual explanation connecting a software feature to everyday work.",
+      "categories": [
+        "Technical Writing"
+      ],
+      "types": [
+        "Guide"
+      ],
+      "audience": "Business application users",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "A dashboard brings related information into one view. The most useful arrangement depends on the task you are trying to complete.\n\n## Start with a question\n\nBefore adding panels, ask what you need to know when you open the application.\n\nA support coordinator may need open requests and customer contact information. Someone reviewing project delivery may need milestones, overdue tasks, and outstanding decisions.\n\nChoose the information that helps you make the next decision. Add other panels when the task requires them.\n\n## Use different views for different tasks\n\nA daily overview can help you decide where to begin. A project dashboard can bring together information you need for a specific assignment.\n\nFor example, a project handover view might include the checklist, upcoming dates, and unresolved questions. Once the handover is complete, you can return to your regular dashboard.\n\n## Review what you have built\n\nUse the dashboard during a normal work session. Notice which panels you consult and which you repeatedly scroll past.\n\nMove the most frequently used information into view. Remove panels that do not help you complete the task.",
+      "order": 2,
+      "preview": "A dashboard brings related information into one view. The most useful arrangement depends on the task you are trying to complete.",
+      "featured": false,
+      "format": "Explainer"
+    },
+    {
+      "slug": "navigation-quick-reference",
+      "title": "Find Your Way Around a Redesigned Application",
+      "description": "A quick reference organized around user questions during a navigation change.",
+      "categories": [
+        "Technical Writing"
+      ],
+      "types": [
+        "Guide"
+      ],
+      "audience": "Users moving to a redesigned application",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "The demonstration application places its main navigation in a panel on the left. Use this reference when you need to find a page or adjust your view.\n\n## Where did the page links go?\n\nOpen the navigation panel to browse the available sections. Select a section to display its pages.\n\n## How do I find a page quickly?\n\nEnter part of the page name in the navigation search box. Choose the matching result to open the page.\n\nUse a specific word from the page name if a general search returns too many results.\n\n## Can I make more room for my work?\n\nSelect **Collapse navigation** to minimize the panel. Expand it again when you need to browse the menu.\n\n## How can I return to a page I use frequently?\n\nOpen the page and select **Add to favorites**. Give the favorite a recognizable name. You can open it later from the favorites list.\n\n## What if a page is missing?\n\nCheck the spelling in your search and browse the relevant section. If the page is still unavailable, contact your application support team with the page name and the task you are trying to complete.",
+      "order": 3,
+      "preview": "The demonstration application places its main navigation in a panel on the left. Use this reference when you need to find a page or adjust your view.",
+      "featured": false,
+      "format": "Quick Reference"
+    },
+    {
+      "slug": "report-a-software-problem",
+      "title": "Report a Software Problem Clearly",
+      "description": "A troubleshooting handoff that helps a user gather useful evidence.",
+      "categories": [
+        "Technical Writing"
+      ],
+      "types": [
+        "Guide"
+      ],
+      "audience": "Employees requesting application support",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "A useful support request explains what you tried to do, what happened, and where the process stopped.\n\n## Check the service status\n\nIf your organization provides a service-status page, check it for an incident that matches your problem. An existing incident may already explain the interruption.\n\n## Record what happened\n\nInclude the following information in your request.\n\n- **Task** — What were you trying to accomplish?\n- **Location** — Which page or feature were you using?\n- **Steps** — What did you select immediately before the problem occurred?\n- **Expected result** — What did you expect the application to do?\n- **Actual result** — What appeared instead? Include the exact error message if available.\n- **Scope** — Does the problem affect one record, several records, or the entire application?\n\n## Add a useful screenshot\n\nCapture the error and enough of the surrounding screen to identify the feature. Remove personal information, customer details, and confidential records before sharing the image.\n\n## Explain the impact\n\nState whether the problem prevents you from completing a task or whether you have a temporary way to continue. This gives the support team context for assessing the request.",
+      "order": 4,
+      "preview": "A useful support request explains what you tried to do, what happened, and where the process stopped.",
+      "featured": false,
+      "format": "Support Guide"
+    },
+    {
+      "slug": "message-template-release-note",
+      "title": "Message Templates That Help You Get Started",
+      "description": "A short feature announcement explaining the benefit and the next action.",
+      "categories": [
+        "Communications Writing"
+      ],
+      "types": [
+        "Announcement"
+      ],
+      "audience": "Users of a fictional messaging application",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "You can now start a message from a reusable template.\n\nChoose your audience, select a template, and fill in the details for your message. Templates provide a common structure for recurring announcements while giving you space to explain the situation in your own words.\n\n## Before you send\n\n- Complete each required field.\n- Review the recipient group.\n- Check that names, dates, and instructions match the current situation.\n- Preview the message to confirm that it reads naturally.\n\nA template can help you begin. The final review ensures the message gives your audience the information they need.",
+      "order": 5,
+      "preview": "You can now start a message from a reusable template.",
+      "featured": false,
+      "format": "Feature Announcement"
+    },
+    {
+      "slug": "introducing-a-new-portal",
+      "title": "Introducing a New Portal",
+      "description": "A launch announcement that explains a layout change and helps users take the first step.",
+      "categories": [
+        "Communications Writing"
+      ],
+      "types": [
+        "Announcement"
+      ],
+      "audience": "Employees adopting a fictional business portal",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "The new portal opens to a customizable dashboard. You can use this space to bring the information you need for your work into one view.\n\nNavigation is now in the left-hand panel. Open the panel to browse available pages, or use navigation search when you already know what you need.\n\n## Getting started\n\n1. Open the dashboard and review the available panels.\n2. Add the information you consult most often.\n3. Save the view with a name you will recognize.\n\nStart with one task you already know well. Following that task through the new layout can help you learn where the relevant pages are located.\n\nIf a step is unclear, send the support team the page name and a description of what you were trying to do. Your feedback will help identify where additional guidance is needed.",
+      "order": 6,
+      "preview": "The new portal opens to a customizable dashboard. You can use this space to bring the information you need for your work into one view.",
+      "featured": true,
+      "format": "Launch Communication"
+    },
+    {
+      "slug": "planned-maintenance-notice",
+      "title": "A Maintenance Notice Readers Can Act On",
+      "description": "A concise service notice with an explicit action and a defined update point.",
+      "categories": [
+        "Communications Writing"
+      ],
+      "types": [
+        "Announcement"
+      ],
+      "audience": "Users of a fictional online service",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "The online workspace will be unavailable on Sunday from 6 a.m. to 8 a.m. Central Time while we perform planned maintenance.\n\nPlease complete or save any work before the maintenance window begins. Schedule activities that require the workspace outside this period.\n\n## What to expect\n\nDuring maintenance, you may see a service-unavailable message when you try to sign in.\n\nWe will post an update on the service-status page when the workspace is available again. If the work takes longer than expected, the same page will provide the next update.\n\nAfter service resumes, sign in and continue your work. If you still encounter a problem, contact support with the error message and the time it occurred.",
+      "order": 7,
+      "preview": "The online workspace will be unavailable on Sunday from 6 a.m. to 8 a.m. Central Time while we perform planned maintenance.",
+      "featured": false,
+      "format": "Service Notice"
+    },
+    {
+      "slug": "feature-request-process",
+      "title": "A Clearer Route for Feature Requests",
+      "description": "A process-change announcement connecting a requested behavior to its purpose.",
+      "categories": [
+        "Communications Writing"
+      ],
+      "types": [
+        "Announcement"
+      ],
+      "audience": "Employees and team leaders",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "Share improvement ideas with your team and work with your team lead to identify the requests that would make the greatest difference.\n\nYour team lead will bring prioritized requests to the product group for review.\n\n## What to include\n\nDescribe the task you are trying to complete, the difficulty you encounter, and the change you would like to see. Explain who else experiences the same issue and whether a temporary solution is available.\n\n## Why this approach helps\n\n- **Shared context.** Team discussion can reveal whether an issue affects several people.\n- **Stronger requests.** Colleagues can help clarify the problem before a solution is proposed.\n- **Clearer priorities.** Team leads can compare requests against the work their teams need to complete.\n\nIf the application is failing during an existing task, use the support channel so the problem can be investigated.",
+      "order": 8,
+      "preview": "Share improvement ideas with your team and work with your team lead to identify the requests that would make the greatest difference.",
+      "featured": false,
+      "format": "Process Announcement"
+    },
+    {
+      "slug": "customer-email-workflow",
+      "title": "Acknowledge and Route a Customer Request",
+      "description": "Operational guidance with decision points and a clear handoff.",
+      "categories": [
+        "Technical Writing"
+      ],
+      "types": [
+        "Guide"
+      ],
+      "audience": "Customer service staff",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "When a customer asks a question that requires research, acknowledge the request before beginning the investigation.\n\n## Acknowledge the message\n\nConfirm what you understand the customer needs. Explain what you will check and when they can expect an update.\n\nIf you use a response template, personalize it and remove any text that does not apply.\n\n## Decide who should handle it\n\n**You can resolve the question.** Gather the information, check that it addresses the request, and reply to the customer.\n\n**Another team needs to investigate.** Summarize the issue and the work already completed before handing it over. Identify the outstanding question so the receiving team knows what to investigate.\n\n**A specific colleague owns the task.** Assign the request with the same context and confirm who will provide the next customer update.\n\n## Complete the handoff\n\nRecord the action taken and the person or team responsible for the next step. Follow your organization's completion criteria before closing the request.\n\nAn acknowledgment confirms receipt. A useful handoff carries the customer's question forward with enough context for someone else to act.",
+      "order": 9,
+      "preview": "When a customer asks a question that requires research, acknowledge the request before beginning the investigation.",
+      "featured": true,
+      "format": "Workflow Guide"
+    },
+    {
+      "slug": "write-emails-that-are-easier-to-answer",
+      "title": "Write Emails That Are Easier to Answer",
+      "description": "Practical guidance showing how structure can reduce follow-up questions.",
+      "categories": [
+        "Technical Writing"
+      ],
+      "types": [
+        "Guide"
+      ],
+      "audience": "Employees writing routine business emails",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "Before sending an email, check whether the reader can identify the request and act on it.\n\n## Put the request near the beginning\n\nGive enough context to explain the situation, then state what you need.\n\nFor example, “Please confirm which delivery date we should use in the customer notice. The current schedule lists both Tuesday and Thursday.”\n\n## Make several questions easy to scan\n\nIf you need more than one decision, use a short list.\n\n- Which delivery date is confirmed?\n- Should the notice include an alternative contact?\n- Who should review the message before it is sent?\n\nSeparate questions help the reader respond to each point.\n\n## Include the timing\n\nExplain when you need the information and what depends on it. A deadline is more useful when the reader understands the next step.\n\n## Review the recipient list\n\nInclude the people who need to act or understand the decision. Check whether the message gives each of them enough context.\n\nRead the email once from the recipient's perspective. If the likely response is “What do you need me to do?”, revise the request before sending.",
+      "order": 10,
+      "preview": "Before sending an email, check whether the reader can identify the request and act on it.",
+      "featured": false,
+      "format": "Writing Guide"
+    },
+    {
+      "slug": "flashcard-study-routine",
+      "title": "A Simple Flashcard Study Routine",
+      "description": "Learner-facing instructions built around recall, feedback, and review.",
+      "categories": [
+        "Educational Writing"
+      ],
+      "types": [
+        "Learning Material"
+      ],
+      "audience": "People beginning to use digital flashcards",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "Use a flashcard session to check what you can recall before you look at the answer.\n\n## Work through a card\n\n1. Choose the deck you want to study.\n2. Start the review session.\n3. Read the question or prompt.\n4. Try to say or write the answer before revealing it.\n5. Reveal the answer and compare it with your response.\n6. Rate how difficult the card was to recall.\n\nYour rating helps the application determine when to show the card again. The exact interval depends on the application and your review history.\n\n## Use the rating honestly\n\nIf you recognized the answer only after revealing it, record that the card needs more practice. Recognition after seeing an answer is different from recalling it yourself.\n\n## Notice what causes difficulty\n\nIf a card repeatedly causes confusion, check the wording. A prompt that asks several questions may be easier to study when divided into smaller cards.\n\nFinish the session by noting one topic you want to revisit.",
+      "order": 11,
+      "preview": "Use a flashcard session to check what you can recall before you look at the answer.",
+      "featured": false,
+      "format": "Study Guide"
+    },
+    {
+      "slug": "onboarding-knowledge-check",
+      "title": "A Knowledge Check That Explains the Answer",
+      "description": "A short training assessment with feedback for each decision.",
+      "categories": [
+        "Educational Writing"
+      ],
+      "types": [
+        "Learning Material"
+      ],
+      "audience": "New users learning a fictional dashboard application",
+      "context": "Adapted portfolio sample using a fictional product and scenario.",
+      "body": "This check follows the dashboard import guide. Use it to review the decisions involved in selecting and saving a template.\n\n## Question 1\n\nYou want to start from a dashboard your team has already prepared. Where should you begin?\n\n- A. Create an empty dashboard.\n- B. Open the template library.\n- C. Change your profile settings.\n\n**Answer B.** The template library contains shared starting points. Creating an empty dashboard would mean selecting the contents yourself.\n\n## Question 2\n\nA template includes several panels you will not use. What should you do before saving your personal copy?\n\n- A. Remove the panels you do not need.\n- B. Ask everyone on the team to change their dashboards.\n- C. Save several identical copies.\n\n**Answer A.** Review the imported template and adjust it for your task. The guide describes creating a personal copy.\n\n## Question 3\n\nHow do you confirm that the task is complete?\n\n- A. Close the browser as soon as the preview appears.\n- B. Check only the template description.\n- C. Save the dashboard, then open it from your dashboard list.\n\n**Answer C.** Opening the saved dashboard confirms that your selection is available for use.",
+      "order": 12,
+      "preview": "This check follows the dashboard import guide. Use it to review the decisions involved in selecting and saving a template.",
+      "featured": false,
+      "format": "Training Assessment"
+    },
+    {
+      "slug": "one-experience-several-stories",
+      "title": "One Experience Can Tell Several Stories",
+      "description": "A reflection on presenting varied work to different audiences.",
+      "categories": [
+        "Essays"
+      ],
+      "types": [
+        "Essay"
+      ],
+      "audience": "Readers building a portfolio or explaining a varied career",
+      "context": "Adapted from a personal draft.",
+      "body": "I keep coming back to the idea that one experience can have several stories inside it.\n\nThe work itself is the same. What changes is the part that matters to the person reading about it.\n\nA project might involve writing, organizing information, building a tool, and helping people use it. Someone hiring for communications may want to understand how the message was shaped. Someone interested in systems may want to know how the workflow changed.\n\nI have been approaching my portfolios with that in mind. Each focused portfolio emphasizes the experience that is most relevant to its audience.\n\nMy project repository serves a broader purpose. It gives people a place to look through the larger body of work and follow their own interests. They may arrive for one project and find another that helps them understand how I work.\n\nThere is also a difficult loop in putting work out into the world. Opportunities may favor people who already seem established, but becoming established requires starting somewhere. If I wait until the story feels complete, I may keep postponing the work of telling it.\n\nFor me, the starting point is to make the experience understandable. Explain what happened, identify the part that matters to this audience, and give them a way to explore further.",
+      "order": 13,
+      "preview": "I keep coming back to the idea that one experience can have several stories inside it.",
+      "featured": false,
+      "format": "Reflective Essay"
+    }
+  ]
+}

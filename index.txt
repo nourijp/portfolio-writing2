@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[1500,["427","static/chunks/427-b3c2034330303e89.js","177","static/chunks/app/layout-7da3ded9727171dd.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[6874,["427","static/chunks/427-b3c2034330303e89.js","177","static/chunks/app/layout-7da3ded9727171dd.js"],""]
+6:I[3063,["427","static/chunks/427-b3c2034330303e89.js","177","static/chunks/app/layout-7da3ded9727171dd.js"],"Image"]
+7:"$Sreact.suspense"
+8:I[5902,["974","static/chunks/app/page-fa7e112903c973b3.js"],"default"]
+9:I[9665,[],"OutletBoundary"]
+c:I[4911,[],"AsyncMetadataOutlet"]
+e:I[9665,[],"ViewportBoundary"]
+10:I[9665,[],"MetadataBoundary"]
+12:I[6614,[],""]
+:HL["/_next/static/media/088686e4ad323fef-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/0e15e1b8c9c2841c-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/136bf7fa028bd8e6-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/bfe51fb49d854584-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/d0c1b60ebbb8f869-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/ebfe4392b6965000-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/ec532840c390656c-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/css/90ea842116b01bb4.css","style"]
+0:{"P":null,"b":"5TMF7aab5yOijTgdUvg2x","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90ea842116b01bb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__className_98d2d9","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"py-6 sm:py-14 flex items-center justify-center","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"flex flex-col gap-1.5 items-center sm:items-start","children":[["$","div",null,{"className":"relative flex items-center w-full","children":[["$","div",null,{"className":"flex-grow h-px bg-black"}],["$","div",null,{"className":"mx-4","children":["$","$L5",null,{"href":"/","children":["$","$L6",null,{"src":"/images/logo/logo.png","alt":"Hamed Nouri writing home","width":70,"height":70}]}]}],["$","div",null,{"className":"flex-grow h-px bg-black"}]]}],["$","p",null,{"className":"text-secondary text-sm","children":["© ",2026," Hamed Nouri"]}]]}]}]}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$7",null,{"fallback":null,"children":["$","$L8",null,{}]}],null,["$","$L9",null,{"children":["$La","$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","0YPVlsuRij3pC5nrJ8w3dv",{"children":[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$L10",null,{"children":"$L11"}]]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+13:I[4911,[],"AsyncMetadata"]
+11:["$","div",null,{"hidden":true,"children":["$","$7",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]}]
+b:null
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+d:{"metadata":[["$","title","0",{"children":"Writing — Hamed Nouri"}],["$","meta","1",{"name":"description","content":"Selected professional writing across proposals, communications, software documentation, education, and essays."}],["$","link","2",{"rel":"canonical","href":"https://writing2.hamednouri.com/"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$d:metadata","error":null,"digest":"$undefined"}
